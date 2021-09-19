@@ -1,6 +1,6 @@
 # Hello visitor. 👋🏻
 
-## I love reversing software for fun, and coding in C++!
+## I love reversing software for fun, and coding in C++! 🚀
 
 ### - 🔭 I’m currently working on some projects, will probably talk about them later !
 ### - 👯 I’m looking to collaborate on c++ based projects, I can help in java and that's kinda it.
