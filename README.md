@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello you :3
 
 - 🔭 I’m currently working on some projects, will probably talk about them later !
 - 👯 I’m looking to collaborate on c++ based projects, I can help in java and that's kinda it.
