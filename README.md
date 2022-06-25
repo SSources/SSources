@@ -7,4 +7,3 @@
 ### - 💬 Ask me about anything!
 ### - 📫 You can reach me on Discord or by mail, at : Source#7777 or `s_sources@protonmail.com`.
 ### - 😄 Pronouns: She/Her.
-### I'm fucking bad at python, please don't talk about it it gives me headaches.
